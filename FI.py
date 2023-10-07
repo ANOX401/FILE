@@ -256,7 +256,6 @@ def FILE():
 			print(' ✘ FILE HALAYA ')
 			time.sleep(3)
 			follower()
-def DUMP():
     
 
 
