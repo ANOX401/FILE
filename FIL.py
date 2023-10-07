@@ -257,8 +257,7 @@ def FILE():
 			time.sleep(3)
 			follower()
 def DUMP():
-    os.system("git clone https://github.com/Hannan-404/FILE")
-   os.system("python FILE/FILE.py")
+    
 
 
 ########################
